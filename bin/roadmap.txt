@@ -6,3 +6,27 @@
 - number
 - bool
 - string
+- dynamic
+
+- konversi type data
+- mathic
+- comparison
+- mathic assign
+- logical
+- type test
+
+- list
+- set
+- map
+- symbol
+
+- if
+- switch
+- null
+- trenary
+- null saftey
+
+- for
+- while
+- do while
+- for in
