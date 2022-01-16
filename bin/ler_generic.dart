@@ -1,14 +1,14 @@
 class Brankas<T>{
   Brankas(this.nomorPin,this.nilaiRahasia);
   String nomorPin;
-  T nilaiRahasia;
+  T? nilaiRahasia;
   
-  T ambilNilai(String nomorPin){
+  T? ambilNilai(String nomorPin){
     if(nomorPin == this.nomorPin){
       return this.nilaiRahasia;
-    }else{
-      return this.nilaiRahasia;
-    }  
+    }
+
+    return null;
   }
 }
 
