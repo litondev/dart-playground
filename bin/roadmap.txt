@@ -30,3 +30,11 @@
 - while
 - do while
 - for in
+
+- function
+- generic
+
+- oop
+- dart library
+- dart package
+- async
