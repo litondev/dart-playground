@@ -32,8 +32,8 @@
 - for in
 
 - function
-- generic
 
+- generic
 - oop
 - dart library
 - dart package
